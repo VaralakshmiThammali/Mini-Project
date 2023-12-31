@@ -1,0 +1,2 @@
+This project aims to create a system for detecting diseases in tomato plant leaves using machine learning. The system takes images of tomato leaves as input and predicts whether the plant is healthy or affected by a specific disease.
+Tomato plants are susceptible to various diseases that can affect their growth and yield. Early detection of these diseases is crucial for effective management and prevention. This project leverages machine learning techniques to automate the detection process, providing farmers with a tool to monitor the health of their tomato plants.
